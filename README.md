@@ -39,7 +39,7 @@ Sæt i køleskabet i **16-24 timer**
 
 > 400ml vand giver 70% hydration, men jeg synes, at det er en tand for vådt. Brug 350ml hvis det skal være nemmere at styre
 
-* 700 mel
+* 700g mel
 * 350-400ml vand
 * 25g salt
 * 10g olivenolie
