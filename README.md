@@ -2,6 +2,11 @@
 
 > Find en tipo 00 mel med så højt protein-indhold som muligt. Brug evt. semola/semolina til at vende pizzabollerne i lige inden de formes.
 
+*Resourcer:*
+
+* https://www.youtube.com/watch?v=u7Hd6ZzKgBM
+* https://www.youtube.com/watch?v=HkXojFU_LrE
+
 ## Ingredienser, 6 pizzabolde
 
 * 1000g tipo 00 mel
