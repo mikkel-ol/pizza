@@ -1,6 +1,6 @@
 # Pizza
 
-> Find en tipo 00 mel med så højt protein-indhold som muligt. Brug evt. semola/semolina til at vende pizzabollerne i lige inden de formes.
+> Find en tipo 00 mel med så højt protein-indhold som muligt. Brug evt. semola/semolina til at vende pizzabollerne i lige inden de formes
 
 *Resourcer:*
 
@@ -59,7 +59,7 @@ Glat pizzabold ved en trække den over bordet (se video) <br/>
 Smør skål med olie på inderside <br/>
 Læg dej i skål, tildæk med film/låg og sæt direkte i køleskab i yderligere **16-24 timer** <br/>
 
-<br/>
+> Vigtigt at lukke skål/beholder helt
 
 > Dagen efter tages dej ud af køleskabet ca. 3 timer før brug. Lad den stå i 30-60 min ved stuetemperatur inden brug. Herfra skal dejen behandles forsigtigt for ikke at ødelægge luften fra gæringen
 
