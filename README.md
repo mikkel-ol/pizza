@@ -2,7 +2,7 @@
 
 > Find en tipo 00 mel med så højt protein-indhold som muligt. Brug evt. semola/semolina til at vende pizzabollerne i lige inden de formes
 
-*Resourcer:*
+*Ressourcer:*
 
 * [https://www.youtube.com/watch?v=u7Hd6ZzKgBM](https://www.youtube.com/watch?v=u7Hd6ZzKgBM)
 * [https://www.youtube.com/watch?v=VqyveaUIOhQ](https://www.youtube.com/watch?v=VqyveaUIOhQ)
@@ -37,7 +37,7 @@ Sæt i køleskabet i **16-24 timer**
 
 ### Dej
 
-> 400ml vand giver 70% hydration, men jeg synes, at det er en tand for vådt. Brug 350ml hvis det skal være nemmere at styre
+> 400ml vand giver 70% hydration, men det kan være en tand for vådt. Brug 350ml hvis det skal være nemmere at styre
 
 * 700g mel
 * 350-400ml vand
